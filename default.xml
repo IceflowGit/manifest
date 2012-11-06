@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>  
-<manifest>  
-    <remote name="aa" fetch="/root/aa" review="git://github.com/" />  
-    <default revision="master" remote="https://github.com/IceflowGit/SCGI.git" />  
-    <project name="IceflowGit/SCGI" path="IceflowGit/SCGI"/>  
-</manifest> 
